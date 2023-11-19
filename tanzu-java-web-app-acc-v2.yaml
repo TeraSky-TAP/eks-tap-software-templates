@@ -5,6 +5,8 @@ metadata:
   name: tanzu-java-web-app
   title: Tanzu Java Web App
   description: A sample Spring Boot web application built with Tanzu supply-chain
+  labels:
+    accelerator.apps.tanzu.vmware.com/accelerator: "true"
   tags:
     - java
     - spring
